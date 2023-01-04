@@ -1,0 +1,202 @@
+@media only screen and (max-width:500px) {
+body{
+background: linear-gradient(to right, rgb(40, 93, 251), rgb(90, 255, 1) ,rgb(246, 71, 71));
+
+
+
+}
+header{
+    width: 100%;
+display: flex;
+justify-content: center;
+height: 5%;
+
+}
+.buyek {
+width: 25%;
+margin: 0;
+padding: 0;
+font-size: 15px;
+}
+.budo{width: 25%;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+}
+.buse{width: 25%;
+    
+    padding: 0;
+    font-size: small;
+  
+    text-align: center;}
+.search{width: 25%;
+    margin: 0;
+    padding: 0;
+width: 25%;
+font-size: small;
+
+}
+nav{
+width: 70%;
+height: 30%;
+position: absolute;
+top:50px;
+left: 0px;
+margin-left: 14%;
+padding: 0%;
+z-index: 2;
+}
+.col{
+width: 25%;
+position: relative;
+flex-wrap: wrap;
+
+}
+.glass{
+position: relative;
+top: 250px;
+flex-wrap: wrap;
+
+}
+.row{
+display: flex;
+width: 80%;
+flex-wrap: wrap;
+position: relative;
+top: 20%;
+margin-left: 10%;
+margin-top: 300px;
+
+}
+.coll {
+width: 100%;
+
+
+}
+.food{
+width: 100%;
+
+
+}
+
+}
+footer{
+width: 99%;
+height: 50%;
+position: relative;
+top: 100px;
+left: 0px;
+
+}
+.bob{
+position: relative;
+top: 40%;
+text-align: center;
+
+}
+a{
+text-align: center;
+}
+ul{
+    text-align: center;
+    margin-right: -10%;
+}
+.led{
+position: relative;
+top: 110%;
+width: 90%;
+left: 17%;
+}
+.roe{
+width: 50%;
+position: relative;
+top: 20%;
+left: 20%;
+}
+.vvv{
+display: inline;
+position: relative;
+right: 30px;
+top: 15%;
+width: 20%;
+height: 20%;
+}
+.vvvv{
+width: 20%;
+height: 20%;
+position: relative;
+top: 35%;
+right: -50%;
+}
+
+@media only screen and (max-width:1000px){
+body{
+background:linear-gradient(to top,red ,rgb(255, 255, 255), green);
+
+
+}
+header{
+height: 8%;
+margin: 0;
+padding: 0;
+font-size: small;
+width: 100%;
+}
+.search{
+margin: 0;
+}
+.budo{
+margin: 0%;
+font-size: medium;
+}
+.buse{
+font-size: small;
+
+}
+.buyek{
+font-size: small;
+}
+.glass{
+width: 100%;
+height: 100px;
+display: flex;
+flex-wrap: wrap;
+}
+
+.col{
+width: 20%;
+margin-top: 3%;
+
+}
+.row{
+margin-top: 300px;
+width: 80%;
+
+}
+.coll{
+width: 39%;
+
+
+}
+.food{
+width: 100%;
+
+
+}
+footer{
+position: relative;
+top: 70%;
+
+
+}
+ul{
+margin-left: 10%;
+
+
+}
+
+
+
+
+
+}
